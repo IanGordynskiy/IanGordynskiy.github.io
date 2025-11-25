@@ -1,5 +1,4 @@
-                                                
-                                                <!-- this script is provided by https://www.htmlbestcodes.com coded by: Kerixa Inc. -->
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 <style>
 
