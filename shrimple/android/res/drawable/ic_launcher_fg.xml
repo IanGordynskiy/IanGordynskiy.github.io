@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- fishing line -->
+    <path android:strokeColor="#EAF6FF" android:strokeWidth="1.5"
+        android:pathData="M48,18 L48,44" />
+    <!-- hook -->
+    <path android:strokeColor="#E0E7EE" android:strokeWidth="4.5" android:strokeLineCap="round"
+        android:pathData="M48,44 L48,64 A9,9 0 0,1 30,64 L30,58 M30,58 L34,62" />
+    <!-- shrimp body -->
+    <path android:strokeColor="#FF8A65" android:strokeWidth="10" android:strokeLineCap="round"
+        android:pathData="M58,50 Q74,50 74,64 Q74,76 60,76" />
+    <path android:strokeColor="#FF5E3A" android:strokeWidth="1.6"
+        android:pathData="M66,47 L64,54 M72,55 L66,58 M74,64 L67,64 M72,72 L66,69" />
+    <!-- tail fan -->
+    <path android:fillColor="#FF5E3A" android:pathData="M60,76 L52,70 L52,82 Z" />
+    <!-- eye and antennae -->
+    <path android:fillColor="#0B2447" android:pathData="M58,49 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+    <path android:strokeColor="#FF8A65" android:strokeWidth="1.2" android:strokeLineCap="round"
+        android:pathData="M56,47 Q50,36 62,30 M58,46 Q58,36 70,34" />
+</vector>
